@@ -41,7 +41,7 @@ experience:
     company: Yinchuan No.1 Middle School
     company_url: 'http://www.ycyz.com.cn/ycyz/index.jsp?urltype=tree.TreeTempUrl&wbtreeid=1386'
     company_logo: sms
-    location: Shenzhen, China
+    location: Yinchuan, China
     date_start: '2016-08-31'
     date_end: '2019-06-30'
     # description: Taught electronic engineering and researched semiconductor physics.
