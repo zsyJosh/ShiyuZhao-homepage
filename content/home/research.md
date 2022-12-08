@@ -1,6 +1,6 @@
 ---
 # A section created with the Portfolio widget.
-# This section displays content from `content/research/`.
+# This section displays content from `content/researches/`.
 # See https://wowchemy.com/docs/widget/portfolio/
 widget: portfolio
 
@@ -15,7 +15,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: research
+  page_type: researches
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
