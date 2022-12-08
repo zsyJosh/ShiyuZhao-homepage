@@ -96,7 +96,7 @@ show_related:
   post: true
   project: true
   publication: true
-  event: true
+  research: true
 reading_time: true
 section_pager: false
 docs_section_pager: true
@@ -129,7 +129,7 @@ comments:
     book: true
     project: true
     publication: true
-    event: true
+    research: true
   disqus:
     shortname: ''
     show_count: true
