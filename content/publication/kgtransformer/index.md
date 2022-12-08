@@ -17,8 +17,9 @@ authors:
 
 # Author notes (optional)
 # author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2022-08-14T00:00:00Z"
 doi: "https://doi.org/10.1145/3534678.3539472"
