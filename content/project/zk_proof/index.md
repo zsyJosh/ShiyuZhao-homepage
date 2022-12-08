@@ -8,8 +8,8 @@ date: "2022-07-02T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+url_pdf: 'relref "../../pdf/papers/kgtransformer.pdf'
 url_code: ""
-url_pdf: "'relref "../../pdf/papers/Nonbb.pdf'"
 url_slides: ""
 url_video: ""
 
