@@ -68,7 +68,7 @@ highlight_name: true
 ---
 
 I am currently a senior student at Yao Class, IIIS, Tsinghua University. 
-My primary research interests lies in the knowledge discovery and its borad application in graph representation learning,
+My primary research interests lies in the knowledge discovery and its broad application in graph representation learning,
 natural language processing, computational biology and cognition and reasoning.
  
 My goal is to build AI models to gain knowledge effectively, 
