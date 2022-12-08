@@ -1,6 +1,6 @@
 ---
 # A section created with the Portfolio widget.
-# This section displays content from `content/events/`.
+# This section displays content from `content/research/`.
 # See https://wowchemy.com/docs/widget/portfolio/
 widget: portfolio
 
