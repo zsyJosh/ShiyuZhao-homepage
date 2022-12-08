@@ -1,6 +1,6 @@
 ---
-title: "Knowledge Graph System: Graph Reasoning with GNN Matching"
-summary: "A graph-matching model with theoretical guarantees for human-readable rules extraction. It proposes that checking the condition of a rule is equivalent to performing subgraph isomorphism tests. It trains a graph neural network (GNN) on the line graph and exploits the trained model with matching-based grading. With high precision, the extracted rules help to provide a user-friendly interface in the system and serves as a tool for the interpretability analysis of GNN models."
+title: "Comprehensive and distinguishable graph-linked embedding for multi-omics single-cell data integration"
+summary: "It solves the indistinguishability of aggregating multi-omics data on the graph for the graph-linked embedding. It also enriches the multi-omics information of graph embedding by using multiple aggregators in the GNN"
 tags:
   - Graph Representation Learning, Interactive System
 date: '2016-04-27T00:00:00Z'
@@ -9,10 +9,10 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Overview of graph-matching model for knowledge graphs 
+  caption: Overview of multiple aggregators for the graph-linked embedding 
   focal_point: Right
 
-url_code: 'https://github.com/sshockwave/GNN-Knowledge'
+url_code: 'https://github.com/zengsihang/Multiomics-Integration'
 url_pdf: ''
 url_slides: ''
 url_video: ''
