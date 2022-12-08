@@ -42,23 +42,15 @@ experience:
     company_logo: logo-ucsd
     location: San Diego, America
     date_start: '2022-07-31'
-    date_end: '2022-11-31'
-    description: Advised by Prof. Leon Bergen.  
-  - title: Remote Research Assistant
-    company: University of California San Diego
-    company_url: 'https://ucsd.edu/'
-    company_logo: logo-ucsd
-    location: Montreal, Canada
-    date_start: '2022-03-31'
-    date_end: '2022-07-31'
-    description: Advised by Prof. Jian Tang.
+    date_end: '2022-11-30'
+    description: Advised by Prof. Leon Bergen.
   - title: Research Assistant
     company: MILA-Quebec AI Institute
     company_url: 'https://mila.quebec/en/'
     company_logo: mila-purple
     location: Beijing, China
     date_start: '2022-03-31'
-    date_end: '2022-07-31'
+    date_end: '2022-07-30'
     description: Advised by Prof. Jian Tang. 
  
   - title: High School Education
