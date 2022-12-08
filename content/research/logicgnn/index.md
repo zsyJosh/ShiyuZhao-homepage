@@ -11,14 +11,15 @@ date: '2022-08-31T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image:
-  caption: Overview of triangle message passing
-  focal_point: Right
 
 url_code: 'https://github.com/KiddoZhu/LogicMessagePassing'
 url_pdf: ''
 url_slides: ''
 url_video: ''
+
+image:
+  caption: Overview of triangle message passing
+  focal_point: Right
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
