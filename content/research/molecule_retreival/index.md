@@ -1,15 +1,15 @@
 ---
 title: "End-to-end Small Molecule Entity Discovery"
-summary: "A model-agnostic enhancement pipeline for small molecule property prediction. It uses a encoder and a retriever to retrieve similar molecules out of the whole dataset as supportive evidence. It also introduces a refinement stage to utilize only supportive evidence for downstream task. It will sealed as a toolkit."
+summary: "A model-agnostic enhancement pipeline for small molecule property prediction. It uses a encoder and a retriever to retrieve similar molecules out of the whole dataset as supportive evidence. It also introduces a refinement stage to utilize only supportive evidence for downstream task. It will soon be sealed as a toolkit."
 tags:
-  - computational biology
+  - Computational Biology
 date: '2022-05-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: An overview of the model-agnostic pipeline
+  caption: Overview of the model-agnostic pipeline
   focal_point: Right
 
 url_code: 'https://github.com/zsyJosh/molecule-retrieval'

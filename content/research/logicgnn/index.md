@@ -1,8 +1,8 @@
 ---
 title: "LogicGNN: Logic Message Passing Graph Neural Network"
-summary: "The first systematically generalizable and scalable reasoning model on KG. It models one-step logic inference as triangle update on graph inspired by logic programming and formalize it under the designed GNN framework. It can also identify reasonable patterns and conduct partial reasoning with the help of auxiliary edges on graphs."
+summary: "The first systematically generalizable and scalable reasoning model on KG. It models one-step logic inference as triangle update on graph inspired by logic programming and formalize it under the designed GNN framework. By recursively applying triangle updates, the model could reason with logic rules of any length with strong scalability. It can also identify reasonable patterns and conduct partial reasoning with the help of auxiliary edges on graphs."
 tags:
-  - Graph representation learning
+  - Graph Representation Learning, Cognition and Reasoning
 date: '2022-08-31T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
