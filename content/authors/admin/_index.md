@@ -68,16 +68,9 @@ highlight_name: true
 ---
 
 I am currently a senior student at Yao Class, IIIS, Tsinghua University. 
-My primary research interests lies in the knowledge discovery and its broad application in graph representation learning,
-natural language processing, computational biology and cognition and reasoning.
+My primary research interests lies in the field of knowledge discovery in AI, 
+with a focus on the use of AI to effectively, efficiently, and interpretably gain knowledge in areas such as graph representation learning, natural language processing, computational biology, and cognition and reasoning.
  
-My goal is to build AI models to gain knowledge effectively, 
-efficiently, and interpretably. I am enthusiastic about designing the 
-methods to model and discover
-generalizable knowledge from data with disparate formats and 
-intricate logic. I am also driven to make a foray into 
-different domains like biology with the hope to extract 
-transferable knowledge to help with domain-specific discovery 
-and innovation.
+I am passionate about developing AI models that can uncover generalizable knowledge from data with complex structures and logic. I also have a strong desire to explore different domains, such as biology, in order to extract transferable knowledge that can aid in domain-specific discovery and innovation. 
 
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.-->
