@@ -1,6 +1,6 @@
 ---
-title: "Comprehensive and distinguishable graph-linked embedding for multi-omics single-cell data integration"
-summary: "It solves the indistinguishability of aggregating multi-omics data on the graph for the graph-linked embedding. It also enriches the multi-omics information of graph embedding by using multiple aggregators in the GNN"
+title: "Knowledge Graph System: Graph Reasoning with GNN Matching"
+summary: "A graph-matching model with theoretical guarantees. It proposes that checking the condition of a rule is equivalent to performing subgraph isomorphism tests. It trains a graph neural network (GNN) on the line graph and exploited the trained model with matching-based grading. The extracted rules server as a tool for the interpretability analysis."
 tags:
   - Graph Representation Learning, Interactive System
 date: '2016-04-27T00:00:00Z'
