@@ -17,10 +17,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Graph Representation Learning
 - Computational Biology
-- Natural Language Processing
-- Cognition and Reasoning
+- Bioinformatics
+- Graph Representation Learning
 
 
 # Education to show in About widget
