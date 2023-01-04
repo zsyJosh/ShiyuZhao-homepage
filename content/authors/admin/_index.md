@@ -16,11 +16,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 
 # Interests to show in About widget
-interests:
-- Knowledge discovery and mining
-  - Graph learning
-  - Natural Language Processing
-  - Computational Biology
+interests: data mining and knowledge discovery
+- Graph representation learning
+- Natural Language Processing
+- Computational Biology
 
 
 
