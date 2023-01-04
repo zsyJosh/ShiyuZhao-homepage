@@ -20,7 +20,7 @@ interests:
 - Graph representation learning
 - Natural Language Processing
 - Computational Biology
-
+- Cognition and Reasoning
 
 
 # Education to show in About widget
