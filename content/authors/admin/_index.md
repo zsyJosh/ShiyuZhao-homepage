@@ -6,30 +6,33 @@ title: Shiyu Zhao 赵时予
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Student
+role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Tsinghua University
-  url: https://www.tsinghua.edu.cn/
+- name: Stanford University
+  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 
 # Interests to show in About widget
 interests: 
-- Computational Biology
+- Natural language processing
 - Graph representation learning
-- Natural Language Processing
+- Computational biology
 
 
 # Education to show in About widget
 education:
   courses:
+  - course: Stanford University
+    institution: Computer Science (Master's degree) at School of Engineering
+    year: Sep 2023 - Jun 2025 (expected)
   - course: Tsinghua University
-    institution: Yao Class, Institute for Interdisciplinary Information Sciences
-    year: 2019-Present
+    institution: Computer Science and Technology (Bachelor's degree) at Yao Class, Institute for Interdisciplinary Information Sciences
+    year: Sep 2019 - Jun 2023
   - course: Yinchuan No.1 Middle School
-    year: 2016-2019
+    year: Sep 2016 - Jun 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -66,10 +69,10 @@ email: ""
 highlight_name: true
 ---
 
-I am currently a senior student at Yao Class, IIIS, Tsinghua University. 
-My primary research interests lies in the field of knowledge discovery in AI, 
-with a focus on the use of AI to effectively, efficiently, and interpretably gain knowledge in areas such as graph representation learning, natural language processing, computational biology, and cognition and reasoning.
+I am currently a master student in computer science at Stanford University. I am experienced in solving complex problems in the real life through sound and creative engineering, and I am a quick learner who is always eager to explore new things! 
+As for research, my previous research mainly lies in the field of knowledge discovery in AI, 
+with a focus on the use of AI to effectively, efficiently, and interpretably gain knowledge in areas such as natural language processing, graph representation learning, and computational biology. 
  
-I am passionate about developing AI models that can uncover generalizable knowledge from data with complex structures and logic. I also have a strong desire to explore different domains, such as biology, in order to extract transferable knowledge that can aid in domain-specific discovery and innovation. 
+I am passionate about applying my computer science skills in the real life to make a difference and developing AI models that can uncover generalizable knowledge from data with complex structures and logic.  
 
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.-->
