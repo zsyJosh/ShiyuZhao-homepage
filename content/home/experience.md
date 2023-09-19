@@ -31,7 +31,7 @@ experience:
   - title: Software Engineer Intern
     company: miHoYo
     company_url: 'https://www.mihoyo.com/'
-    company_logo: logo-ucsd
+    company_logo: logo-mhy
     location: Beijing, China
     date_start: '2023-07-01'
     date_end: '2032-08-31'
