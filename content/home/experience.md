@@ -28,6 +28,14 @@ experience:
     #    * Analysing
     #    * Modelling
     #    * Deploying
+  - title: Software Engineer Intern
+    company: miHoYo
+    company_url: 'https://www.mihoyo.com/'
+    company_logo: logo-ucsd
+    location: Beijing, China
+    date_start: '2023-07-01'
+    date_end: '2032-08-31'
+    description: Mentored by Yinhe Zheng.
   - title: Remote Research Assistant 
     company: University of California San Diego
     company_url: 'https://ucsd.edu/'
@@ -43,7 +51,7 @@ experience:
     location: Montreal, Canada
     date_start: '2022-03-31'
     date_end: '2022-08-30'
-    description: Advised by Prof. Jian Tang. 
+    description: Mentored by Prof. Jian Tang. 
   - title: Research Assistant
     company: Tsinghua University
     company_url: 'https://www.tsinghua.edu.cn/en/'
